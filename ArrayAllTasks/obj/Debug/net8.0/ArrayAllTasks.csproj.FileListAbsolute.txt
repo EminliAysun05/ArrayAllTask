@@ -1,0 +1,14 @@
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\bin\Debug\net8.0\ArrayAllTasks.exe
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\bin\Debug\net8.0\ArrayAllTasks.deps.json
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\bin\Debug\net8.0\ArrayAllTasks.runtimeconfig.json
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\bin\Debug\net8.0\ArrayAllTasks.dll
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\bin\Debug\net8.0\ArrayAllTasks.pdb
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\ArrayAllTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\ArrayAllTasks.AssemblyInfoInputs.cache
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\ArrayAllTasks.AssemblyInfo.cs
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\ArrayAllTasks.csproj.CoreCompileInputs.cache
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\ArrayAllTasks.dll
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\refint\ArrayAllTasks.dll
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\ArrayAllTasks.pdb
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\ArrayAllTasks.genruntimeconfig.cache
+C:\Users\namjoon\source\repos\ArrayAllTasks\ArrayAllTasks\obj\Debug\net8.0\ref\ArrayAllTasks.dll
